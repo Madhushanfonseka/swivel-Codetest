@@ -3,16 +3,19 @@ Using the provided data (tickets.json and users.json and organization.json) . a 
 
 # How to run the CLA
 
--   Install python 3
--   Create directory called "task" and copy files into task folder
--  Open terminal / Command Prompt for Windows Users and *`cd ../task`*
+- Install python 3
+- Create directory called "task" and copy files into task folder
+- Open terminal / Command Prompt for Windows Users and *`cd ../task`*
 - Run python `task.py`
+
 ![enter image description here](https://i.ibb.co/yRQtZNF/screen1.png)
 
 User Guide
 =
 Type number "1" to search data from the json datasets
+
 ![enter image description here](https://i.ibb.co/107Q6Ky/screen2.png)
+
 Once you type number 1 it will prompt asking `'Enter search term'`
 How ever if you don't have any idea of search terms you are able to view list of all the possible search terms by pressing 2 as bellow.
  
